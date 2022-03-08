@@ -2,7 +2,7 @@
 
 - Acompanhando a aula do experts club na rocketseat.
 - Starter documentação original abaixo.
-- Os códigos presentes aqui foram feitos acompanhando a aula.
+- Os códigos presentes aqui foram feitos durante a aula.
 
 ...
 
